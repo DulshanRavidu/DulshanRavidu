@@ -20,7 +20,10 @@
 </div>
 
 <pre align="center">
-I am an enthusiastic IT undergraduate with a strong passion for software engineering and problem-solving. I enjoyexploring new technologies and taking on challenges that enhance my skills and knowledge. With a focus onteamwork, adaptability, and creativity, I am eager to contribute positively to projects while gaining valuableexperience to support my professional growth and future career in the tech industry.
+I am an enthusiastic IT undergraduate with a strong passion for software engineering and problem-solving. 
+I enjoyexploring new technologies and taking on challenges that enhance my skills and knowledge. With a
+focus onteamwork, adaptability, and creativity, I am eager to contribute positively to projects while 
+gaining valuableexperience to support my professional growth and future career in the IT industry.
 </pre>
 <pre>
 🌱 I’m currently learning React.js, ASP.NET Core, Cloud Deployment, advanced concepts
